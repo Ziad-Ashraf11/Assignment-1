@@ -95,7 +95,7 @@ function Division (num) {
         console.log('Divisible by both');
         
     }
-    else{console.log("not Divivsible");
+    else{console.log("not Divisible");
     }
 
 }
